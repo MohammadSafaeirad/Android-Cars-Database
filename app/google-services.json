@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "440182234909",
+    "firebase_url": "https://prjcarsdatabaseoct25mo-default-rtdb.firebaseio.com",
+    "project_id": "prjcarsdatabaseoct25mo",
+    "storage_bucket": "prjcarsdatabaseoct25mo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440182234909:android:d2d2881328420bb88fcbf4",
+        "android_client_info": {
+          "package_name": "com.example.prjcarsdatabaseoct25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ6TM7Tr7qAqRf7clh9e3QZggUycpA2gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
